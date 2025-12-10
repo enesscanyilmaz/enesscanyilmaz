@@ -42,14 +42,6 @@ Kısacası **uçtan uca proje geliştirme** yapan bir full stack geliştiriciyim
 
 ---
 
-### 📈 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enesscanyilmaz&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesscanyilmaz&layout=compact&theme=tokyonight" height="180" />
-</p>
-
----
-
 ### 📬 Bana Ulaş
 - 💼 LinkedIn: [Link]([https://www.linkedin.com/in/enescanyilmaz/])
 
