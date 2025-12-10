@@ -43,7 +43,7 @@ Kısacası **uçtan uca proje geliştirme** yapan bir full stack geliştiriciyim
 ---
 
 ### 📬 Bana Ulaş
-- 💼 LinkedIn: [Link]([https://www.linkedin.com/in/enescanyilmaz/])
+- 💼 LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/enescanyilmaz/)
 
 ---
 
